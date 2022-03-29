@@ -4,6 +4,10 @@ package org.openjfx;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Source:
+ * Niels Kjær Faurskovs Youtube series
+ */
 
 public class Counter {
 
