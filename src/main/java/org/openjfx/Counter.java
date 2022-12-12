@@ -15,6 +15,7 @@ public class Counter {
     private int max = 200_000;
     private int value;
     private Output output;
+
     public Counter(int max) {
         this.max = max;
     }
